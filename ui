@@ -200,7 +200,7 @@ G2L["12"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["12"]["BackgroundColor3"] = Color3.fromRGB(28, 28, 28);
 G2L["12"]["FontFace"] = Font.new([[rbxassetid://12187365364]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["12"]["ClearTextOnFocus"] = false;
-G2L["12"]["PlaceholderText"] = [[����� ��� ��������?]];
+G2L["12"]["PlaceholderText"] = [[шахедница. какой скрипт?]];
 G2L["12"]["Size"] = UDim2.new(1, 0, 1, 0);
 G2L["12"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["12"]["Text"] = [[]];
@@ -298,7 +298,7 @@ G2L["1c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["1c"]["BackgroundTransparency"] = 1;
 G2L["1c"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["1c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["1c"]["Text"] = [[�������]];
+G2L["1c"]["Text"] = [[Скримак]];
 G2L["1c"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["1c"]["Name"] = [[assetname]];
 
@@ -450,7 +450,7 @@ G2L["2b"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["2b"]["BackgroundTransparency"] = 1;
 G2L["2b"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["2b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["2b"]["Text"] = [[�������� ����]];
+G2L["2b"]["Text"] = [[Удалит глайт ваще]];
 G2L["2b"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["2b"]["Name"] = [[assetname]];
 
@@ -602,7 +602,7 @@ G2L["3a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["3a"]["BackgroundTransparency"] = 1;
 G2L["3a"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["3a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["3a"]["Text"] = [[������� ����]];
+G2L["3a"]["Text"] = [[кикнуть всех нах]];
 G2L["3a"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["3a"]["Name"] = [[assetname]];
 
@@ -754,7 +754,7 @@ G2L["49"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["49"]["BackgroundTransparency"] = 1;
 G2L["49"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["49"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["49"]["Text"] = [[������� �����]];
+G2L["49"]["Text"] = [[Удалить карту]];
 G2L["49"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["49"]["Name"] = [[assetname]];
 
@@ -906,7 +906,7 @@ G2L["58"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["58"]["BackgroundTransparency"] = 1;
 G2L["58"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["58"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["58"]["Text"] = [[��]];
+G2L["58"]["Text"] = [[Я не придумала название]];
 G2L["58"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["58"]["Name"] = [[assetname]];
 
@@ -1058,7 +1058,7 @@ G2L["67"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["67"]["BackgroundTransparency"] = 1;
 G2L["67"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["67"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["67"]["Text"] = [[�������� ��� ]];
+G2L["67"]["Text"] = [[ОБОЗВАТЬ ТУПОГО ВЛД]];
 G2L["67"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["67"]["Name"] = [[assetname]];
 
@@ -1218,7 +1218,7 @@ G2L["77"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["77"]["BackgroundTransparency"] = 1;
 G2L["77"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["77"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["77"]["Text"] = [[���� � ���]];
+G2L["77"]["Text"] = [[Поспамить фактами]];
 G2L["77"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["77"]["Name"] = [[assetname]];
 
@@ -1442,7 +1442,7 @@ G2L["8d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["8d"]["BackgroundTransparency"] = 1;
 G2L["8d"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["8d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["8d"]["Text"] = [[������ ���� ����]];
+G2L["8d"]["Text"] = [[Выдат крч всем меч пусть анархия будет]];
 G2L["8d"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["8d"]["Name"] = [[assetname]];
 
@@ -1601,7 +1601,7 @@ G2L["9d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["9d"]["BackgroundTransparency"] = 1;
 G2L["9d"]["Size"] = UDim2.new(1, 0, 0, 0);
 G2L["9d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["9d"]["Text"] = [[����� ����]];
+G2L["9d"]["Text"] = [[Убить всех гандонов]];
 G2L["9d"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["9d"]["Name"] = [[assetname]];
 
@@ -1822,7 +1822,7 @@ G2L["b3"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["b3"]["BackgroundTransparency"] = 1;
 G2L["b3"]["Size"] = UDim2.new(1, 0, 0, 34);
 G2L["b3"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["b3"]["Text"] = [[������, ����� ������ - ��������� ����� ���� ���. ����� �����, ������, � ������� �����.]];
+G2L["b3"]["Text"] = [[Кароче, сверху - твой код выполнить.снизу готовые команды]];
 G2L["b3"]["LayoutOrder"] = 2;
 G2L["b3"]["AutomaticSize"] = Enum.AutomaticSize.Y;
 G2L["b3"]["Name"] = [[note]];
@@ -2097,10 +2097,10 @@ local script = G2L["26"];
 	        if character and character:FindFirstChild("Head") then
 	            -- ���� ������� ����� TextChatService (Modern Chat)
 	            if generalChannel then
-	                generalChannel:SendAsync("TG @K4SNC")
+	                generalChannel:SendAsync("ШАХЕДНИЦЫ ТОП!")
 	            else
 	                -- ������ �� ������, ���� � ���� ������� Legacy Chat
-	                game:GetService("Chat"):Chat(character.Head, "TG @K4SNC")
+	                game:GetService("Chat"):Chat(character.Head, "ШАХЕДНИЦЫ ТОП!")
 	            end
 	        end
 	    end
@@ -2121,7 +2121,7 @@ local script = G2L["35"];
 	    local Players = game:GetService("Players")
 	    
 	    for _, player in Players:GetPlayers() do
-	        player:Kick("SL��Y�I� �AXED���� TRAXN��� ��� � VA�E�� ���!")
+	        player:Kick("КЛАССНЫЕ ШAHEDNIЦЫ ЕBNULI ВАС")
 	    end
 	]]
 	
@@ -2174,9 +2174,9 @@ local script = G2L["53"];
 	        local character = player.Character
 	        if character and character:FindFirstChild("Head") then
 	            if generalChannel then
-	                generalChannel:SendAsync("�AXEDNI�� ���!!")
+	                generalChannel:SendAsync("АХ САША ТЫ ЮВЕЛИР!")
 	            else
-	                game:GetService("Chat"):Chat(character.Head, "�AXEDNI�� ���!!")
+	                game:GetService("Chat"):Chat(character.Head, "АХ САША ТЫ ЮВЕЛИР!")
 	            end
 	        end
 	    end
@@ -2204,9 +2204,9 @@ local script = G2L["62"];
 	        local character = player.Character
 	        if character and character:FindFirstChild("Head") then
 	            if generalChannel then
-	                generalChannel:SendAsync("�������� ���� ������ ������� ������ ���� �� �� �� ��������� ������")
+	                generalChannel:SendAsync("ВЛАДЕЛЕЦ ЭТОЙ ПОМОЙНОЙ КАРТЫ ХУЙЛО, ШАХЕДНИЦЫ ТОП И МЫ ИМ ПОДЧИНЯЕМСЯ")
 	            else
-	                game:GetService("Chat"):Chat(character.Head, "�������� ���� ������ ������� ������ ���� �� �� �� ��������� ������")
+	                game:GetService("Chat"):Chat(character.Head, "КАВО БЛЯТЬ")
 	            end
 	        end
 	    end
